@@ -13,3 +13,7 @@
   * [Credit and Debit Card Payment Flow](connection-method/direct-client-side-connection/credit-and-debit-card-payment-flow.md)
 * [Server Side Direct Connection](connection-method/server-side-direct-connection/README.md)
   * [Definition of Parameters in the Integration Page](connection-method/server-side-direct-connection/definition-of-parameters-in-the-integration-page.md)
+
+## API Reference
+
+* [PayForm](api-reference/payform.md)
