@@ -1,3 +1,3 @@
 # Table of contents
 
-* [readme](README.md)
+* [PayDollar PayGate](README.md)
