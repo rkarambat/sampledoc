@@ -17,3 +17,7 @@
 ## API Reference
 
 * [PayForm](api-reference/payform.md)
+
+## DATA FEED HANDLING
+
+* [Definition of Parameters in the output of Data Feed](data-feed-handling/definition-of-parameters-in-the-output-of-data-feed.md)
