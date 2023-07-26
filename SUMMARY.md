@@ -14,10 +14,6 @@
 * [Server Side Direct Connection](connection-method/server-side-direct-connection/README.md)
   * [Definition of Parameters in the Integration Page](connection-method/server-side-direct-connection/definition-of-parameters-in-the-integration-page.md)
 
-## API Reference
-
-* [PayForm](api-reference/payform.md)
-
 ## DATA FEED HANDLING
 
 * [Definition of Parameters in the output of Data Feed](data-feed-handling/definition-of-parameters-in-the-output-of-data-feed.md)
